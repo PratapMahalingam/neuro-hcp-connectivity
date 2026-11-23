@@ -1,0 +1,8 @@
+# HCP Data Use Terms forbid redistributing the data: never commit it
+data/
+*.nii
+*.nii.gz
+*.dtseries.nii
+.ipynb_checkpoints/
+__pycache__/
+.venv/

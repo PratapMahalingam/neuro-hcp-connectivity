@@ -1,0 +1,5 @@
+metric,pearson_r,p_perm,p_bonferroni,spearman_rho,p_spearman
+clustering,-0.3691,0.0002,0.0008,-0.3622,0.0002
+path_length,-0.3107,0.002,0.008,-0.4016,0.0
+global_eff,0.3614,0.0004,0.0016,0.399,0.0
+modularity,-0.3629,0.0004,0.0016,-0.3541,0.0003
